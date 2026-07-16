@@ -10,7 +10,7 @@ window.addEventListener("load", () => {
             splash.style.display = "none";
             app.style.display = "block";
         }, 500);
-    }, 2500);
+    }, 800);
 });
 
 // Like Button
